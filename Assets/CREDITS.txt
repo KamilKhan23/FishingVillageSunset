@@ -1,0 +1,28 @@
+CREDITS - Fishing Village at Sunset (CSE-411 Mini Project 1)
+=============================================================
+
+No external asset packs, models, textures, skyboxes or audio were imported into this project.
+Every model, texture, material and the skybox in the scene was created for this project
+(by the editor tools in Assets/Editor and the shader in Assets/Shaders).
+
+Built-in Unity resources used (part of the Unity Editor / URP packages, not downloaded assets):
+
+1. Asset:   Universal Render Pipeline shaders (Lit, Particles/Unlit, Terrain/Lit)
+   Source:  Unity package com.unity.render-pipelines.universal 14.0.12 (Unity Package Manager)
+   Author:  Unity Technologies
+   Link:    https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html
+   Licence: Unity Companion License
+
+2. Asset:   Built-in Sphere primitive mesh (used for the mooring buoys)
+   Source:  Unity Editor built-in resources (GameObject > 3D Object > Sphere)
+   Author:  Unity Technologies
+   Link:    https://docs.unity3d.com/Manual/PrimitiveObjects.html
+   Licence: Unity Editor built-in resource (Unity Terms of Service)
+
+3. Asset:   LegacyRuntime.ttf font (captions in the walkthrough video only)
+   Source:  Unity Editor built-in resources
+   Author:  Unity Technologies
+   Link:    https://docs.unity3d.com/Manual/class-Font.html
+   Licence: Unity Editor built-in resource (Unity Terms of Service)
+
+Tools: Unity 2022.3.62f3 (URP).
